@@ -201,13 +201,15 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of proteus  :
 
-
-
+LED OFF :
 ![out2](https://user-images.githubusercontent.com/118722030/234834125-2432a452-aacc-4c86-83b0-978f9d4203ab.png)
+
+LED ON:
+![out](https://user-images.githubusercontent.com/118722030/234838564-bc7758e7-6f3a-416b-8534-55226a3d8816.png)
 
 ## Proteus layout(Add pdf screen shot of circuit here)
  
-![Uploading out 3.png…]()
+![out 3](https://user-images.githubusercontent.com/118722030/234838610-086c04c5-bbd7-4fa1-9bf8-f92bfe0ffe87.png)
 
 ## Result :
 
